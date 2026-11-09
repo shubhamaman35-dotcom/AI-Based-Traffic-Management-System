@@ -1,0 +1,15 @@
+# Core Web Server & API
+fastapi>=0.110.0
+uvicorn>=0.28.0
+websockets>=12.0
+pydantic>=2.6.0
+jinja2>=3.1.3
+python-multipart>=0.0.9
+
+# Numerical & Vision Processing
+numpy>=1.26.0
+opencv-python-headless>=4.9.0.80
+
+# Testing & Utilities
+requests>=2.31.0
+pytest>=8.0.0
